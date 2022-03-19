@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-03-19T19:58:50.320591800+08:00"
+from:
+  id-type: crev
+  id: P-9O_LdWejw2bT2w2oERVsS9K96qVa3Puils4Ian9Zc
+  url: "https://github.com/oh-wind/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: minicbor-ser
+  version: 0.1.3
+  revision: cf5ab62860c6d60cb92f769672a241d6b4801a3b
+  digest: DdvSXFq5hvSYIqv3md1e419lHdyxUOc9HUm7RxplKgU
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+comment: |-
+  I'm the author. minicbor-ser is based on minicbor and serde, and provides semantic version guarantees.
+----- SIGN CREV PROOF -----
+Pcr9SSHIIRRMIueJloHUOSCOajkaCuymoTHoKYXeOxd3p9MKSPY0HM9TeC0fbKaBMT4e9a3lPsoaMJimKJB2BA
+----- END CREV PROOF -----
+
