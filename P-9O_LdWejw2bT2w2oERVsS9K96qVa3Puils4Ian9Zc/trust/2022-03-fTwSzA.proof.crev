@@ -134,3 +134,20 @@ trust: none
 iJr_B9yhTmvK2bDFWyQ2JJ22Yxfdf_ymkOOHtO-cI5oZCXJNZIO54TmDNLR9KRHBIdyrTcOJ-Bw_lpDHrOmGBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2022-03-19T21:15:23.321428500+08:00"
+from:
+  id-type: crev
+  id: P-9O_LdWejw2bT2w2oERVsS9K96qVa3Puils4Ian9Zc
+  url: "https://github.com/oh-wind/crev-proofs"
+ids:
+  - id-type: crev
+    id: 6OZqHXqyUAF57grEY7IVMjRljdd9dgDxiNtr1NF1BdY
+    url: "https://github.com/MaulingMonkey/crev-proofs"
+trust: none
+----- SIGN CREV PROOF -----
+qZDjK9ie94PyNdYWokth3FXBCgW1wJqXhSBrVgFupepS4KZ9Z6jwFZRr-mwEi8oOLth_IUsuuatHf5xDUubEAw
+----- END CREV PROOF -----
+
