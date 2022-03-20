@@ -22,3 +22,25 @@ comment: |-
 Pcr9SSHIIRRMIueJloHUOSCOajkaCuymoTHoKYXeOxd3p9MKSPY0HM9TeC0fbKaBMT4e9a3lPsoaMJimKJB2BA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-03-20T21:34:47.432255200+08:00"
+from:
+  id-type: crev
+  id: P-9O_LdWejw2bT2w2oERVsS9K96qVa3Puils4Ian9Zc
+  url: "https://github.com/oh-wind/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: serde
+  version: 1.0.136
+  revision: 02bd79a0bada78dd88d050f6478806f001f41fb0
+  digest: RF9Fv-RncZ1GpeC0vFE3Kg1gZsD1OEUk4BeiDYhOrTw
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+CLiQCEDDz7yKtj22v2Hx-PU-ocmUbJUfmoCbuMpVV5RnkbKcdxYxC6am9eGJwHKnVjcjv9JfIniPYkZPR2DOBA
+----- END CREV PROOF -----
+
